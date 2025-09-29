@@ -1,0 +1,9 @@
+fastmcp
+azure-identity
+azure-kusto-data
+azure-mgmt-resourcegraph
+openai
+weaviate-client
+pandas
+python-dotenv
+requests
