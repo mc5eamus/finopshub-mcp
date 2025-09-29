@@ -149,7 +149,7 @@ Obtain the recent [ADX dashboard definition](https://github.com/microsoft/finops
 2. **Parse and index the dashboard queries**:
     ```bash
     python server/parser.py parse
-    python server/parser.py index
+    python server/parser.py inject
     ```
 ---
 
