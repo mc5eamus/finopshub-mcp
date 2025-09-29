@@ -8,8 +8,7 @@ This Model Context Protocol (MCP) server provides intelligent access to Financia
 
 **Financial Operations (FinOps)** is a cultural practice and operational framework that brings financial accountability to the variable spend model of cloud computing. It enables organizations to get maximum business value by helping engineering, finance, technology, and business teams collaborate on data-driven spending decisions.
 
-**Azure FinOps Hub**
-(https://microsoft.github.io/finops-toolkit/hubs), part of the [**Azure FinOps Toolkit**](https://microsoft.github.io/finops-toolkit), is a **centralized analytics solution** for implementing FinOps practices at scale. Built on **Azure Data Explorer (ADX)**, it ingests, processes, and organizes cost and usage data across **multiple Azure subscriptions and cloud providers**.  
+[**Azure FinOps Hub**](https://microsoft.github.io/finops-toolkit/hubs), part of the [**Azure FinOps Toolkit**](https://microsoft.github.io/finops-toolkit), is a **centralized analytics solution** for implementing FinOps practices at scale. Built on **Azure Data Explorer (ADX)**, it ingests, processes, and organizes cost and usage data across **multiple Azure subscriptions and cloud providers**.  
 
 The Hub provides a consistent, extensible data model and a high-performance query layer, enabling teams to drive **cost management, optimization, and governance** with greater speed and accuracy.
 
